@@ -1,4 +1,4 @@
-# Web page to pdf converter
+# Webpage to pdf converter
 # local web page to pdf converter
 # python application using pdfcrowd module: 'pip install pdfcrowd' 
 # API-application programming interface
